@@ -1,5 +1,6 @@
 # Generatore di password CLI
 
+<img width="788" height="90" alt="Screenshot 2026-02-09 224814" src="https://github.com/user-attachments/assets/aa048ab4-f04d-4150-86c7-97b344931525" />
 Questo è un programma CLI scritto in python che genera password sicure e casuali, puoi scegliere la lunghezza della password e il programma la creerà usando lettere maiuscole, numeri e simboli speciali.
 
 ## Come usare
